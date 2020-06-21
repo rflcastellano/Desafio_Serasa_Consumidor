@@ -1,0 +1,15 @@
+serasa: 'https://www.serasa.com.br/'
+Entrar: '.button.button--primary._2dsxvAkd'
+
+CPF: '#cpf'
+
+Confirmar: '.button.button--primary.w-100'
+
+cpf_valido: '32260388850'
+cpf_invalido: '12345678901'
+cpf_vazio: ''
+
+mensagem_invalido: 'Você precisa informar um CPF válido.'
+mensagem_vazio: 'Você precisa informar um CPF válido.'
+mensagem_valido: 'Criar conta com'
+
